@@ -22,7 +22,6 @@ A conversational AI chatbot designed to provide mental health support using natu
 
 ### Setup
 1. Clone the repository:
-   ```bash
    git clone https://github.com/yourusername/mental-health-chatbot.git
    cd mental-health-chatbot
 
